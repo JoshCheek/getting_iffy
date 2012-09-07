@@ -1,5 +1,9 @@
 # Getting Iffy - A Ruby Kata
 
+## Josh thoughts
+
+Hmm, the modules defining the methods was unfortunate.
+
 ## About
 
 You must refactor the beast that lies beneath the authorization mechanism of an invoice system.  You are new to the project.  All you see is a sea of "if" statements.  Your task:  Make the if statements go away.
